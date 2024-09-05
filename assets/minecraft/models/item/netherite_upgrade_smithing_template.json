@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/netherite_upgrade_smithing_template"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 12700013
+			},
+			"model": "tcc:item/dragon_upgrade_smithing_template"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 30600002
+			},
+			"model": "tcc:item/emerald_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30600005
+			},
+			"model": "tcc:item/briny_baron"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30600006
+			},
+			"model": "tcc:item/ocean_blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30600007
+			},
+			"model": "tcc:item/broken_gael_greatsword"
+		}
+	]
+}

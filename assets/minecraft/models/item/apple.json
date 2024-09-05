@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 12700006
+			},
+			"model": "tcc:item/iron_apple"
+		},
+    	{
+			"predicate": {
+				"custom_model_data": 12700007
+			},
+			"model": "tcc:item/iron_apple"
+		},
+    	{
+			"predicate": {
+				"custom_model_data": 12700008
+			},
+			"model": "tcc:item/diamond_apple"
+		},
+    	{
+			"predicate": {
+				"custom_model_data": 12700009
+			},
+			"model": "tcc:item/diamond_apple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12700010
+			},
+			"model": "tcc:item/magic_mirror"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12700012
+			},
+			"model": "tcc:item/recall_potion"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30600010
+			},
+			"model": "tcc:item/purified_gel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30600011
+			},
+			"model": "tcc:item/cyclone_charge"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40900003
+			},
+			"model": "tcc:item/mooncake"
+		}
+	]
+}

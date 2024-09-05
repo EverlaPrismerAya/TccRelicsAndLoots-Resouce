@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/elytra"
+	},
+	"overrides": [
+		{
+            "predicate": {
+                "broken": 1
+            },
+            "model": "item/broken_elytra"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 12900001
+			},
+			"model": "tcc:item/dragon_elytra"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12900002
+			},
+			"model": "tcc:item/diamond_netherite_elytra"
+		}
+	]
+}

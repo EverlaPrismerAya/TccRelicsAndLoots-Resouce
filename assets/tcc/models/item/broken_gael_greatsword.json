@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tcc:item/broken_gael_greatsword"
+  }
+}

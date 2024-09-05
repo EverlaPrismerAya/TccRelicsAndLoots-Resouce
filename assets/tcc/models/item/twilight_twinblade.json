@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "tcc:item/twilight_twinblade"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 90, 0],
+			"translation": [0, 8, 1.5],
+			"scale": [1.5, 1.5, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -90, 0],
+			"translation": [0, 8, 1.5],
+			"scale": [1.5, 1.5, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [179.83, 74.46, -123.58],
+			"translation": [1.75, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10.58, -80.23, -50.34],
+			"translation": [1, 5, 1],
+			"scale": [0.8, 0.8, 1]
+		},
+		"ground": {
+			"translation": [0, 7, 0],
+			"scale": [1.5, 1.5, 0.8]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [1, 1, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"scale": [1.5, 1.5, 0.8]
+		}
+	}
+}

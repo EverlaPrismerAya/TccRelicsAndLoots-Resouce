@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/black_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 30600012
+			},
+			"model": "tcc:item/dragon_scale"
+		}
+	]
+}
