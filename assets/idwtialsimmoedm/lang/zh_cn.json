@@ -56,5 +56,6 @@
   "enchantment.tcc.vertical_splitting.desc": "减少横扫攻击伤害",
   "enchantment.tcc.villager_slayer.desc": "能够瞬间秒杀村民、流浪商人和流浪商人的羊驼",
   "enchantment.tcc.yamato_judgement_cut.desc": "对敌人额外造成几段0.5点的真实伤害，跟”剑增伤附魔”及”PVP大佬”冲突，",
-  "enchantment.tcc.two_dim_foil.desc": "减少下落攻击伤害，并且击中生物后将反过来压扁玩家"
+  "enchantment.tcc.two_dim_foil.desc": "减少下落攻击伤害，并且击中生物后将反过来压扁玩家",
+  "enchantment.tcc.obsidian_miner.desc": "使得镐子挖掘黑曜石速度变的极快，但是无法挖掘其他方块"
 }
